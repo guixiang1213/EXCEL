@@ -7,3 +7,8 @@
 
 建议：
 可以建立另外一个文件夹，叫CS，入门可以学[这门课](https://www.coursera.org/course/cs101)
+
+
+看看怎么放图片的
+
+![](https://github.com/guixiang1213/EXCEL/blob/master/figs/tes.jpeg)
